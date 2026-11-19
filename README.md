@@ -73,7 +73,7 @@ El proyecto sigue una arquitectura ETL en capas (medallón), orquestada por
 Apache Airflow, desde la extracción de los datos hasta su consumo final en
 el dashboard de la fuerza de ventas.
 
-![Arquitectura del proyecto](docs/ARQUITECTURA.png)
+![Arquitectura del proyecto](informebolton/docs/ARQUITECTURA.png)
 
 ## Fuentes de datos
 
