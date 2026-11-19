@@ -2,27 +2,26 @@
 
 *Pipeline ETL con arquitectura medallón para automatizar la generación de reportes comerciales cuatrimestrales*
 
-
 ## Descripción
 
 Cada cuatrimestre, la fuerza de ventas debía presentar sus resultados comerciales
 en una reunión de evaluación de desempeño. Antes de este proyecto, ese proceso
-implicaba días enteros de trabajo manual, revisar los datos en bruto, calcular
+implicaba días enteros de trabajo manual: revisar los datos en bruto, calcular
 métricas, construir gráficas y armar las diapositivas desde cero.
 
 Más allá del tiempo perdido, esto generaba una carga de presión considerable sobre
 el equipo comercial. La preparación de la presentación competía directamente con
 el tiempo que deberían estar dedicando a vender, y cualquier error o demora se
-traducía en ansiedad frente a una reunión donde los resultados y en algunos casos
-la continuidad laboral estaban en juego.
+traducía en ansiedad frente a una reunión donde los resultados —y en algunos casos
+la continuidad laboral— estaban en juego.
 
 Este proyecto resuelve ese problema mediante un pipeline ETL con arquitectura
-medallón que automatiza por completo la extracción,
-limpieza, integración y agregación de los datos comerciales. Los resultados ya
-procesados se exponen en un dashboard interactivo en Streamlit, donde cada
-vendedor puede consultar y capturar directamente sus métricas y gráficas listas
-para insertar en su presentación eliminando días de trabajo manual y reduciendo
-la incertidumbre y presión asociada a la preparación de este informe.
+medallón que automatiza por completo la extracción, limpieza, integración y
+agregación de los datos comerciales. Los resultados ya procesados se exponen
+en un dashboard interactivo en Streamlit, donde cada vendedor puede consultar
+y capturar directamente sus métricas y gráficas listas para insertar en su
+presentación, eliminando días de trabajo manual y reduciendo la incertidumbre
+y presión asociada a la preparación de este informe.
 
 ## Objetivos
 
@@ -284,16 +283,17 @@ requieren ajustes manuales.
 
 ### 4. Tener MySQL disponible
 
-El pipeline requiere un servidor MySQL accesible, crea automáticamente la
+El pipeline requiere un servidor MySQL accesible; crea automáticamente la
 base de datos y las tablas necesarias al ejecutarse.
 
 ### 5. Instalar y levantar Apache Airflow
 
 Airflow corre en un entorno Docker independiente, con sus propias
-dependencias (`requirements-airflow.txt`) y configuración. Desde `airflow-medallon/`:
+dependencias (`requirements-airflow.txt`) y configuración. Desde la raíz
+del repositorio (`bolton/`):
 
 ```bash
-cd ../airflow-medallon
+cd airflow-medallon
 docker compose up airflow-init
 docker compose up -d
 ```
@@ -311,7 +311,7 @@ Existen dos formas de correr el pipeline ETL: localmente con `main.py`
 
 ### Opción A — Ejecución local directa (sin Airflow)
 
-Desde `informebolton/`, con el entorno virtual activado:
+Desde `bolton/informebolton/`, con el entorno virtual activado:
 
 ```bash
 python main.py
@@ -333,7 +333,7 @@ integración, generación de informes y carga a MySQL.
 
 ### Levantar la API (FastAPI)
 
-Desde `informebolton/`:
+Desde `bolton/informebolton/`:
 
 ```bash
 uvicorn api.main:app --reload
@@ -344,7 +344,7 @@ interactiva en `http://127.0.0.1:8000/docs`.
 
 ### Levantar el Dashboard (Streamlit)
 
-Desde `informebolton/dashboard/`:
+Desde `bolton/informebolton/dashboard/`:
 
 ```bash
 cd dashboard
@@ -385,8 +385,7 @@ Se verificó que ambas fuentes de bronze (API Colombia y Excel Bolton)
 generan archivos con datos, sin columnas completamente vacías, y que
 pueden integrarse sin errores.
 
-![Resultado test_extract](assets_readme/test_extract_consola.png)
-!
+![Resultado test_extract](informebolton/assets_readme/test_extract_consola.png)
 
 ### Pruebas de integridad (transform / gold)
 
@@ -395,8 +394,7 @@ ausencia de nulos en campos clave (vendedor, región, producto, pesos),
 ausencia de valores negativos en pesos y cajas, y reconciliación de totales
 entre `gold_final` y los informes agregados (`gold_por_anio`).
 
-![Resultado test_transform](assets_readme/test_transform_consola.png)
-
+![Resultado test_transform](informebolton/assets_readme/test_transform_consola.png)
 
 ### Validación integrada en la carga (load)
 
@@ -407,10 +405,7 @@ archivo origen contra las filas insertadas en MySQL, y reconcilia la suma de
 si algo no cuadra. El log de una carga exitosa confirma esto para las 17
 tablas (bronze, silver, gold e informes):
 
-
-
-![Resultado test_load](assets_readme/test_load_consola.png)
-
+![Resultado test_load](informebolton/assets_readme/test_load_consola.png)
 
 Ningún conteo ni reconciliación de sumas falló, confirmando que no se
 perdieron ni duplicaron registros entre el archivo y la base de datos.
@@ -433,7 +428,7 @@ deteniendo el pipeline y evitando que datos corruptos lleguen a MySQL. Además,
 toda tarea cuenta con 2 reintentos automáticos (5 minutos de espera) para
 tolerar fallos transitorios sin intervención manual.
 
-![DAG ejecutado exitosamente en Airflow](assets_readme/dag_airflow_exitoso.png)
+![DAG ejecutado exitosamente en Airflow](informebolton/assets_readme/dag_airflow_exitoso.png)
 
 ### Resultado final: Dashboard
 
@@ -442,14 +437,14 @@ fuerza de ventas puede explorar sus resultados comerciales y capturar
 gráficas listas para sus presentaciones cuatrimestrales, sin necesidad de
 procesar datos manualmente.
 
-![Dashboard Streamlit](assets_readme/dashboard_streamlit.png)
+![Dashboard Streamlit](informebolton/assets_readme/dashboard_streamlit.png)
 
 ## Autores
 
 - Juan Pablo Castillo
 - Joseph Marín
 - Alejandro Marín
-- Jose Alfredo Gonzalías *(verificar ortografía del apellido)*
+- Jose Alfredo Gonzalías
 
 **Proyecto desarrollado como parte de la automatización de resultados
 comerciales cuatrimestrales — arquitectura ETL medallón, orquestación con
