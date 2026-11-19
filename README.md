@@ -244,7 +244,7 @@ bolton/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/<tu-usuario>/bolton.git
+git clone https://github.com/maringris11/bolton.git
 cd bolton
 ```
 
