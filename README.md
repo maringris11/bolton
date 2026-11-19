@@ -2,27 +2,26 @@
 
 *Pipeline ETL con arquitectura medallón para automatizar la generación de reportes comerciales cuatrimestrales*
 
-
 ## Descripción
 
 Cada cuatrimestre, la fuerza de ventas debía presentar sus resultados comerciales
 en una reunión de evaluación de desempeño. Antes de este proyecto, ese proceso
-implicaba días enteros de trabajo manual, revisar los datos en bruto, calcular
+implicaba días enteros de trabajo manual: revisar los datos en bruto, calcular
 métricas, construir gráficas y armar las diapositivas desde cero.
 
 Más allá del tiempo perdido, esto generaba una carga de presión considerable sobre
 el equipo comercial. La preparación de la presentación competía directamente con
 el tiempo que deberían estar dedicando a vender, y cualquier error o demora se
-traducía en ansiedad frente a una reunión donde los resultados y en algunos casos
-la continuidad laboral estaban en juego.
+traducía en ansiedad frente a una reunión donde los resultados —y en algunos casos
+la continuidad laboral— estaban en juego.
 
 Este proyecto resuelve ese problema mediante un pipeline ETL con arquitectura
-medallón que automatiza por completo la extracción,
-limpieza, integración y agregación de los datos comerciales. Los resultados ya
-procesados se exponen en un dashboard interactivo en Streamlit, donde cada
-vendedor puede consultar y capturar directamente sus métricas y gráficas listas
-para insertar en su presentación eliminando días de trabajo manual y reduciendo
-la incertidumbre y presión asociada a la preparación de este informe.
+medallón que automatiza por completo la extracción, limpieza, integración y
+agregación de los datos comerciales. Los resultados ya procesados se exponen
+en un dashboard interactivo en Streamlit, donde cada vendedor puede consultar
+y capturar directamente sus métricas y gráficas listas para insertar en su
+presentación, eliminando días de trabajo manual y reduciendo la incertidumbre
+y presión asociada a la preparación de este informe.
 
 ## Objetivos
 
@@ -284,16 +283,17 @@ requieren ajustes manuales.
 
 ### 4. Tener MySQL disponible
 
-El pipeline requiere un servidor MySQL accesible, crea automáticamente la
+El pipeline requiere un servidor MySQL accesible; crea automáticamente la
 base de datos y las tablas necesarias al ejecutarse.
 
 ### 5. Instalar y levantar Apache Airflow
 
 Airflow corre en un entorno Docker independiente, con sus propias
-dependencias (`requirements-airflow.txt`) y configuración. Desde `airflow-medallon/`:
+dependencias (`requirements-airflow.txt`) y configuración. Desde la raíz
+del repositorio (`bolton/`):
 
 ```bash
-cd ../airflow-medallon
+cd airflow-medallon
 docker compose up airflow-init
 docker compose up -d
 ```
@@ -311,7 +311,7 @@ Existen dos formas de correr el pipeline ETL: localmente con `main.py`
 
 ### Opción A — Ejecución local directa (sin Airflow)
 
-Desde `informebolton/`, con el entorno virtual activado:
+Desde `bolton/informebolton/`, con el entorno virtual activado:
 
 ```bash
 python main.py
@@ -333,7 +333,7 @@ integración, generación de informes y carga a MySQL.
 
 ### Levantar la API (FastAPI)
 
-Desde `informebolton/`:
+Desde `bolton/informebolton/`:
 
 ```bash
 uvicorn api.main:app --reload
@@ -344,7 +344,7 @@ interactiva en `http://127.0.0.1:8000/docs`.
 
 ### Levantar el Dashboard (Streamlit)
 
-Desde `informebolton/dashboard/`:
+Desde `bolton/informebolton/dashboard/`:
 
 ```bash
 cd dashboard
@@ -444,7 +444,7 @@ procesar datos manualmente.
 - Juan Pablo Castillo
 - Joseph Marín
 - Alejandro Marín
-- Jose Alfredo Gonzalías *(verificar ortografía del apellido)*
+- Jose Alfredo Gonzalías
 
 **Proyecto desarrollado como parte de la automatización de resultados
 comerciales cuatrimestrales — arquitectura ETL medallón, orquestación con
