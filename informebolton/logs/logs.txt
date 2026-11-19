@@ -1,0 +1,761 @@
+14-10-2026 18:30:01; Extrayendo datos de Bolton
+14-10-2026 18:30:48; Extrayendo datos de Bolton
+14-10-2026 18:34:31; Extrayendo datos de Bolton
+14-10-2026 18:35:52; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+14-10-2026 18:35:52; Eliminadas por PESOS no convertible a número: 0
+14-10-2026 18:35:52; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+14-10-2026 18:35:52; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+14-10-2026 18:35:52; Eliminadas por PESOS = 0: 381
+14-10-2026 18:35:52; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+14-10-2026 18:35:52; Eliminadas por duplicado exacto con factura: 14,095
+14-10-2026 18:35:52; Guardado en data\silver\bolton_silver.csv
+14-10-2026 18:39:33; Extrayendo datos de Bolton
+14-10-2026 18:40:52; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+14-10-2026 18:40:52; Eliminadas por PESOS no convertible a número: 0
+14-10-2026 18:40:52; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+14-10-2026 18:40:52; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+14-10-2026 18:40:52; Eliminadas por PESOS = 0: 381
+14-10-2026 18:40:52; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+14-10-2026 18:40:52; Eliminadas por duplicado exacto con factura: 14,095
+14-10-2026 18:40:52; Guardado en data\silver\bolton_silver.csv
+15-10-2026 11:35:24; Extrayendo datos de Bolton
+15-10-2026 11:36:49; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+15-10-2026 11:36:49; Eliminadas por PESOS no convertible a número: 0
+15-10-2026 11:36:49; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+15-10-2026 11:36:49; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+15-10-2026 11:36:49; Eliminadas por PESOS = 0: 381
+15-10-2026 11:36:49; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+15-10-2026 11:36:49; Eliminadas por duplicado exacto con factura: 14,095
+15-10-2026 11:36:49; Guardado en data\silver\bolton_silver.csv
+15-10-2026 11:45:54; Extrayendo datos de Bolton
+15-10-2026 11:47:03; Extrayendo datos de Bolton
+15-10-2026 12:05:42; Extrayendo datos de Bolton
+15-10-2026 12:07:06; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+15-10-2026 12:07:06; Eliminadas por PESOS no convertible a número: 0
+15-10-2026 12:07:06; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+15-10-2026 12:07:06; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+15-10-2026 12:07:06; Eliminadas por PESOS = 0: 381
+15-10-2026 12:07:06; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+15-10-2026 12:07:06; Eliminadas por duplicado exacto con factura: 14,095
+15-10-2026 12:07:06; Guardado en data\silver\bolton_silver.csv
+15-10-2026 12:07:08; Integrado silver: 201,044 filas; sin departamento asignado: 0
+15-10-2026 12:07:08; Guardado en data\silver\silver_integrado.csv
+15-10-2026 12:07:09; Gold generado: 201,044 filas, 21 columnas -> data\gold\gold_final.csv
+15-10-2026 12:21:12; Extrayendo datos de Bolton
+15-10-2026 12:22:16; Extrayendo datos de Bolton
+15-10-2026 12:23:39; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+15-10-2026 12:23:39; Eliminadas por PESOS no convertible a número: 0
+15-10-2026 12:23:39; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+15-10-2026 12:23:39; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+15-10-2026 12:23:39; Eliminadas por PESOS = 0: 381
+15-10-2026 12:23:39; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+15-10-2026 12:23:39; Eliminadas por duplicado exacto con factura: 14,095
+15-10-2026 12:23:39; Guardado en data\silver\bolton_silver.csv
+15-10-2026 12:23:41; Integrado silver: 201,044 filas; sin departamento asignado: 0
+15-10-2026 12:23:41; Guardado en data\silver\silver_integrado.csv
+15-10-2026 12:23:42; Gold generado: 201,044 filas, 21 columnas -> data\gold\gold_final.csv
+15-10-2026 12:23:43; Informe por_anio: 9 filas -> data\gold\informe_anual.csv
+15-10-2026 12:23:43; Informe por_cuatrimestre: 26 filas -> data\gold\informe_cuatrimestral.csv
+15-10-2026 12:23:43; Informe top_ciudades: 90 filas -> data\gold\top_ciudades_anio.csv
+15-10-2026 12:23:43; Informe top_productos: 90 filas -> data\gold\top_productos_anio.csv
+15-10-2026 12:23:43; Informe top_vendedores: 90 filas -> data\gold\top_vendedores_anio.csv
+15-10-2026 12:49:26; Extrayendo datos de Bolton
+15-10-2026 12:49:37; Extrayendo datos de Bolton
+15-10-2026 12:51:03; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+15-10-2026 12:51:03; Eliminadas por PESOS no convertible a número: 0
+15-10-2026 12:51:03; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+15-10-2026 12:51:03; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+15-10-2026 12:51:03; Eliminadas por PESOS = 0: 381
+15-10-2026 12:51:03; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+15-10-2026 12:51:03; Eliminadas por duplicado exacto con factura: 14,095
+15-10-2026 12:51:03; Guardado en data\silver\bolton_silver.csv
+15-10-2026 12:51:05; Integrado silver: 201,044 filas; sin departamento asignado: 0
+15-10-2026 12:51:05; Guardado en data\silver\silver_integrado.csv
+15-10-2026 12:51:06; Gold generado: 201,044 filas, 21 columnas -> data\gold\gold_final.csv
+15-10-2026 12:51:07; Informe por_anio: 9 filas -> data\gold\informe_anual.csv
+15-10-2026 12:51:07; Informe por_cuatrimestre: 26 filas -> data\gold\informe_cuatrimestral.csv
+15-10-2026 12:51:07; Informe top_ciudades: 90 filas -> data\gold\top_ciudades_anio.csv
+15-10-2026 12:51:07; Informe top_productos: 90 filas -> data\gold\top_productos_anio.csv
+15-10-2026 12:51:07; Informe top_vendedores: 90 filas -> data\gold\top_vendedores_anio.csv
+15-10-2026 13:01:37; Extrayendo datos de Bolton
+15-10-2026 13:02:58; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+15-10-2026 13:02:58; Eliminadas por PESOS no convertible a número: 0
+15-10-2026 13:02:58; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+15-10-2026 13:02:58; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+15-10-2026 13:02:58; Eliminadas por PESOS = 0: 381
+15-10-2026 13:02:58; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+15-10-2026 13:02:58; Eliminadas por duplicado exacto con factura: 14,095
+15-10-2026 13:02:58; Guardado en data\silver\bolton_silver.csv
+15-10-2026 13:02:59; Integrado silver: 201,044 filas; sin departamento asignado: 0
+15-10-2026 13:02:59; Guardado en data\silver\silver_integrado.csv
+15-10-2026 13:03:01; Gold generado: 201,044 filas, 21 columnas -> data\gold\gold_final.csv
+15-10-2026 13:03:02; Informe por_anio: 9 filas -> data\gold\informe_anual.csv
+15-10-2026 13:03:02; Informe por_cuatrimestre: 26 filas -> data\gold\informe_cuatrimestral.csv
+15-10-2026 13:03:02; Informe top_ciudades: 90 filas -> data\gold\top_ciudades_anio.csv
+15-10-2026 13:03:02; Informe top_productos: 90 filas -> data\gold\top_productos_anio.csv
+15-10-2026 13:03:02; Informe top_vendedores: 90 filas -> data\gold\top_vendedores_anio.csv
+15-10-2026 13:09:05; Extrayendo datos de Bolton
+15-10-2026 13:10:28; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+15-10-2026 13:10:28; Eliminadas por PESOS no convertible a número: 0
+15-10-2026 13:10:28; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+15-10-2026 13:10:28; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+15-10-2026 13:10:28; Eliminadas por PESOS = 0: 381
+15-10-2026 13:10:28; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+15-10-2026 13:10:28; Eliminadas por duplicado exacto con factura: 14,095
+15-10-2026 13:10:28; Guardado en data\silver\bolton_silver.csv
+15-10-2026 13:10:30; Integrado silver: 201,044 filas; sin departamento asignado: 0
+15-10-2026 13:10:30; Guardado en data\silver\silver_integrado.csv
+15-10-2026 13:10:32; Gold generado: 201,044 filas, 21 columnas -> data\gold\gold_final.csv
+15-10-2026 13:10:33; Informe por_anio: 9 filas -> data\gold\informe_anual.csv
+15-10-2026 13:10:33; Informe por_cuatrimestre: 26 filas -> data\gold\informe_cuatrimestral.csv
+15-10-2026 13:10:33; Informe top_ciudades: 90 filas -> data\gold\top_ciudades_anio.csv
+15-10-2026 13:10:33; Informe top_productos: 90 filas -> data\gold\top_productos_anio.csv
+15-10-2026 13:10:33; Informe top_vendedores: 90 filas -> data\gold\top_vendedores_anio.csv
+15-10-2026 13:37:52; Extrayendo datos de Bolton
+15-10-2026 13:39:09; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+15-10-2026 13:39:09; Eliminadas por PESOS no convertible a número: 0
+15-10-2026 13:39:09; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+15-10-2026 13:39:09; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+15-10-2026 13:39:09; Eliminadas por PESOS = 0: 381
+15-10-2026 13:39:09; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+15-10-2026 13:39:09; Eliminadas por duplicado exacto con factura: 14,095
+15-10-2026 13:39:09; Guardado en data\silver\bolton_silver.csv
+15-10-2026 13:39:11; Integrado silver: 201,044 filas; sin departamento asignado: 0
+15-10-2026 13:39:11; Guardado en data\silver\silver_integrado.csv
+15-10-2026 13:39:13; Gold generado: 201,044 filas, 21 columnas -> data\gold\gold_final.csv
+15-10-2026 13:40:24; Extrayendo datos de Bolton
+15-10-2026 13:41:43; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+15-10-2026 13:41:43; Eliminadas por PESOS no convertible a número: 0
+15-10-2026 13:41:43; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+15-10-2026 13:41:43; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+15-10-2026 13:41:43; Eliminadas por PESOS = 0: 381
+15-10-2026 13:41:43; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+15-10-2026 13:41:43; Eliminadas por duplicado exacto con factura: 14,095
+15-10-2026 13:41:43; Guardado en data\silver\bolton_silver.csv
+15-10-2026 13:41:45; Integrado silver: 201,044 filas; sin departamento asignado: 0
+15-10-2026 13:41:45; Guardado en data\silver\silver_integrado.csv
+15-10-2026 13:41:46; Gold generado: 201,044 filas, 21 columnas -> data\gold\gold_final.csv
+15-10-2026 13:41:47; Informe por_anio: 9 filas -> data\gold\informe_anual.csv
+15-10-2026 13:41:47; Informe por_cuatrimestre: 26 filas -> data\gold\informe_cuatrimestral.csv
+15-10-2026 13:41:47; Informe top_ciudades: 90 filas -> data\gold\top_ciudades_anio.csv
+15-10-2026 13:41:47; Informe top_productos: 90 filas -> data\gold\top_productos_anio.csv
+15-10-2026 13:41:47; Informe top_vendedores: 90 filas -> data\gold\top_vendedores_anio.csv
+15-10-2026 13:41:47; Informe top_ventas_per_capita: 90 filas -> data\gold\top_ventas_per_capita_anio.csv
+15-10-2026 13:41:47; Informe top_vendedores_per_capita: 90 filas -> data\gold\top_vendedores_per_capita_anio.csv
+15-10-2026 13:41:47; Informe top_productos_cuatrimestre: 130 filas -> data\gold\top_productos_cuatrimestre.csv
+15-10-2026 13:41:47; Informe top_referencias_cuatrimestre: 130 filas -> data\gold\top_referencias_cuatrimestre.csv
+15-10-2026 13:41:47; Informe top_familias_cuatrimestre: 130 filas -> data\gold\top_familias_cuatrimestre.csv
+15-10-2026 13:41:47; Informe top_categorias_cuatrimestre: 130 filas -> data\gold\top_categorias_cuatrimestre.csv
+15-10-2026 13:59:06; Extrayendo datos de Bolton
+15-10-2026 14:00:25; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+15-10-2026 14:00:25; Eliminadas por PESOS no convertible a número: 0
+15-10-2026 14:00:25; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+15-10-2026 14:00:25; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+15-10-2026 14:00:25; Eliminadas por PESOS = 0: 381
+15-10-2026 14:00:25; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+15-10-2026 14:00:25; Eliminadas por duplicado exacto con factura: 14,095
+15-10-2026 14:00:25; Guardado en data\silver\bolton_silver.csv
+15-10-2026 14:00:26; Integrado silver: 201,044 filas; sin departamento asignado: 0
+15-10-2026 14:00:26; Guardado en data\silver\silver_integrado.csv
+15-10-2026 14:00:28; Gold generado: 201,044 filas, 21 columnas -> data\gold\gold_final.csv
+15-10-2026 14:00:29; Informe por_anio: 9 filas -> data\gold\informe_anual.csv
+15-10-2026 14:00:29; Informe por_cuatrimestre: 26 filas -> data\gold\informe_cuatrimestral.csv
+15-10-2026 14:00:29; Informe top_ciudades: 90 filas -> data\gold\top_ciudades_anio.csv
+15-10-2026 14:00:29; Informe top_productos: 90 filas -> data\gold\top_productos_anio.csv
+15-10-2026 14:00:29; Informe top_vendedores: 90 filas -> data\gold\top_vendedores_anio.csv
+15-10-2026 14:00:29; Informe top_ventas_per_capita: 90 filas -> data\gold\top_ventas_per_capita_anio.csv
+15-10-2026 14:00:29; Informe top_vendedores_per_capita: 90 filas -> data\gold\top_vendedores_per_capita_anio.csv
+15-10-2026 14:00:29; Informe top_productos_cuatrimestre: 130 filas -> data\gold\top_productos_cuatrimestre.csv
+15-10-2026 14:00:29; Informe top_referencias_cuatrimestre: 130 filas -> data\gold\top_referencias_cuatrimestre.csv
+15-10-2026 14:00:29; Informe top_familias_cuatrimestre: 130 filas -> data\gold\top_familias_cuatrimestre.csv
+15-10-2026 14:00:29; Informe top_categorias_cuatrimestre: 130 filas -> data\gold\top_categorias_cuatrimestre.csv
+15-10-2026 14:00:29; Informe top_marca_region_cuatrimestre: 260 filas -> data\gold\top_marca_region_cuatrimestre.csv
+15-10-2026 14:00:29; Informe top_marca_region_anio: 90 filas -> data\gold\top_marca_region_anio.csv
+11-11-2026 14:52:58; Extrayendo datos de Bolton
+11-11-2026 14:54:27; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+11-11-2026 14:54:27; Eliminadas por PESOS no convertible a número: 0
+11-11-2026 14:54:27; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+11-11-2026 14:54:27; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+11-11-2026 14:54:27; Eliminadas por PESOS = 0: 381
+11-11-2026 14:54:27; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+11-11-2026 14:54:27; Eliminadas por duplicado exacto con factura: 14,095
+11-11-2026 14:54:27; Guardado en data\silver\bolton_silver.csv
+11-11-2026 14:54:29; Integrado silver: 201,044 filas; sin departamento asignado: 0
+11-11-2026 14:54:29; Guardado en data\silver\silver_integrado.csv
+11-11-2026 14:54:30; Gold generado: 201,044 filas, 21 columnas -> data\gold\gold_final.csv
+11-11-2026 14:54:31; Informe por_anio: 9 filas -> data\gold\informe_anual.csv
+11-11-2026 14:54:31; Informe por_cuatrimestre: 26 filas -> data\gold\informe_cuatrimestral.csv
+11-11-2026 14:54:31; Informe top_ciudades: 90 filas -> data\gold\top_ciudades_anio.csv
+11-11-2026 14:54:31; Informe top_productos: 90 filas -> data\gold\top_productos_anio.csv
+11-11-2026 14:54:31; Informe top_vendedores: 90 filas -> data\gold\top_vendedores_anio.csv
+11-11-2026 14:54:31; Informe top_ventas_per_capita: 90 filas -> data\gold\top_ventas_per_capita_anio.csv
+11-11-2026 14:54:31; Informe top_vendedores_per_capita: 90 filas -> data\gold\top_vendedores_per_capita_anio.csv
+11-11-2026 14:54:31; Informe top_productos_cuatrimestre: 130 filas -> data\gold\top_productos_cuatrimestre.csv
+11-11-2026 14:54:31; Informe top_referencias_cuatrimestre: 130 filas -> data\gold\top_referencias_cuatrimestre.csv
+11-11-2026 14:54:31; Informe top_familias_cuatrimestre: 130 filas -> data\gold\top_familias_cuatrimestre.csv
+11-11-2026 14:54:31; Informe top_categorias_cuatrimestre: 130 filas -> data\gold\top_categorias_cuatrimestre.csv
+11-11-2026 14:54:31; Informe top_marca_region_cuatrimestre: 260 filas -> data\gold\top_marca_region_cuatrimestre.csv
+11-11-2026 14:54:31; Informe top_marca_region_anio: 90 filas -> data\gold\top_marca_region_anio.csv
+11-11-2026 16:11:15; Extrayendo datos de Bolton
+11-11-2026 16:12:36; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+11-11-2026 16:12:36; Eliminadas por PESOS no convertible a número: 0
+11-11-2026 16:12:36; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+11-11-2026 16:12:36; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+11-11-2026 16:12:36; Eliminadas por PESOS = 0: 381
+11-11-2026 16:12:36; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+11-11-2026 16:12:36; Eliminadas por duplicado exacto con factura: 14,095
+11-11-2026 16:12:36; Guardado en data\silver\bolton_silver.csv
+11-11-2026 16:12:37; Integrado silver: 201,044 filas; sin departamento asignado: 0
+11-11-2026 16:12:37; Guardado en data\silver\silver_integrado.csv
+11-11-2026 16:12:39; Gold generado: 201,044 filas, 21 columnas -> data\gold\gold_final.csv
+11-11-2026 16:12:40; Informe por_anio: 9 filas -> data\gold\informe_anual.csv
+11-11-2026 16:12:40; Informe por_cuatrimestre: 26 filas -> data\gold\informe_cuatrimestral.csv
+11-11-2026 16:12:40; Informe top_ciudades: 90 filas -> data\gold\top_ciudades_anio.csv
+11-11-2026 16:12:40; Informe top_productos: 90 filas -> data\gold\top_productos_anio.csv
+11-11-2026 16:12:40; Informe top_vendedores: 90 filas -> data\gold\top_vendedores_anio.csv
+11-11-2026 16:12:40; Informe top_ventas_per_capita: 90 filas -> data\gold\top_ventas_per_capita_anio.csv
+11-11-2026 16:12:40; Informe top_vendedores_per_capita: 90 filas -> data\gold\top_vendedores_per_capita_anio.csv
+11-11-2026 16:12:40; Informe top_productos_cuatrimestre: 130 filas -> data\gold\top_productos_cuatrimestre.csv
+11-11-2026 16:12:40; Informe top_referencias_cuatrimestre: 130 filas -> data\gold\top_referencias_cuatrimestre.csv
+11-11-2026 16:12:40; Informe top_familias_cuatrimestre: 130 filas -> data\gold\top_familias_cuatrimestre.csv
+11-11-2026 16:12:40; Informe top_categorias_cuatrimestre: 130 filas -> data\gold\top_categorias_cuatrimestre.csv
+11-11-2026 16:12:40; Informe top_marca_region_cuatrimestre: 260 filas -> data\gold\top_marca_region_cuatrimestre.csv
+11-11-2026 16:12:40; Informe top_marca_region_anio: 90 filas -> data\gold\top_marca_region_anio.csv
+12-11-2026 12:50:18; Extrayendo datos de Bolton
+12-11-2026 12:51:43; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+12-11-2026 12:51:43; Eliminadas por PESOS no convertible a número: 0
+12-11-2026 12:51:43; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+12-11-2026 12:51:43; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+12-11-2026 12:51:43; Eliminadas por PESOS = 0: 381
+12-11-2026 12:51:43; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+12-11-2026 12:51:43; Eliminadas por duplicado exacto con factura: 14,095
+12-11-2026 12:51:43; Guardado en data\silver\bolton_silver.csv
+12-11-2026 12:51:44; Integrado silver: 201,044 filas; sin departamento asignado: 0
+12-11-2026 12:51:44; Guardado en data\silver\silver_integrado.csv
+12-11-2026 12:51:46; Gold generado: 201,044 filas, 21 columnas -> data\gold\gold_final.csv
+12-11-2026 12:51:47; Informe por_anio: 9 filas -> data\gold\informe_anual.csv
+12-11-2026 12:51:47; Informe por_cuatrimestre: 26 filas -> data\gold\informe_cuatrimestral.csv
+12-11-2026 12:51:47; Informe top_ciudades: 90 filas -> data\gold\top_ciudades_anio.csv
+12-11-2026 12:51:47; Informe top_productos: 90 filas -> data\gold\top_productos_anio.csv
+12-11-2026 12:51:47; Informe top_vendedores: 90 filas -> data\gold\top_vendedores_anio.csv
+12-11-2026 12:51:47; Informe top_ventas_per_capita: 90 filas -> data\gold\top_ventas_per_capita_anio.csv
+12-11-2026 12:51:47; Informe top_vendedores_per_capita: 90 filas -> data\gold\top_vendedores_per_capita_anio.csv
+12-11-2026 12:51:47; Informe top_productos_cuatrimestre: 130 filas -> data\gold\top_productos_cuatrimestre.csv
+12-11-2026 12:51:47; Informe top_referencias_cuatrimestre: 130 filas -> data\gold\top_referencias_cuatrimestre.csv
+12-11-2026 12:51:47; Informe top_familias_cuatrimestre: 130 filas -> data\gold\top_familias_cuatrimestre.csv
+12-11-2026 12:51:47; Informe top_categorias_cuatrimestre: 130 filas -> data\gold\top_categorias_cuatrimestre.csv
+12-11-2026 12:51:47; Informe top_marca_region_cuatrimestre: 260 filas -> data\gold\top_marca_region_cuatrimestre.csv
+12-11-2026 12:51:47; Informe top_marca_region_anio: 90 filas -> data\gold\top_marca_region_anio.csv
+16-11-2026 12:59:31; Extrayendo datos de Bolton
+16-11-2026 13:00:53; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+16-11-2026 13:00:53; Eliminadas por PESOS no convertible a número: 0
+16-11-2026 13:00:53; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+16-11-2026 13:00:53; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+16-11-2026 13:00:53; Eliminadas por PESOS = 0: 381
+16-11-2026 13:00:53; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+16-11-2026 13:00:53; Eliminadas por duplicado exacto con factura: 14,095
+16-11-2026 13:00:53; Guardado en data\silver\bolton_silver.csv
+16-11-2026 13:00:54; Integrado silver: 201,044 filas; sin departamento asignado: 0
+16-11-2026 13:00:54; Guardado en data\silver\silver_integrado.csv
+16-11-2026 13:00:56; Gold generado: 201,044 filas, 21 columnas -> data\gold\gold_final.csv
+16-11-2026 13:00:57; Informe por_anio: 9 filas -> data\gold\informe_anual.csv
+16-11-2026 13:00:57; Informe por_cuatrimestre: 26 filas -> data\gold\informe_cuatrimestral.csv
+16-11-2026 13:00:57; Informe top_ciudades: 90 filas -> data\gold\top_ciudades_anio.csv
+16-11-2026 13:00:57; Informe top_productos: 90 filas -> data\gold\top_productos_anio.csv
+16-11-2026 13:00:57; Informe top_vendedores: 90 filas -> data\gold\top_vendedores_anio.csv
+16-11-2026 13:00:57; Informe top_ventas_per_capita: 90 filas -> data\gold\top_ventas_per_capita_anio.csv
+16-11-2026 13:00:57; Informe top_vendedores_per_capita: 90 filas -> data\gold\top_vendedores_per_capita_anio.csv
+16-11-2026 13:00:57; Informe top_productos_cuatrimestre: 130 filas -> data\gold\top_productos_cuatrimestre.csv
+16-11-2026 13:00:57; Informe top_referencias_cuatrimestre: 130 filas -> data\gold\top_referencias_cuatrimestre.csv
+16-11-2026 13:00:57; Informe top_familias_cuatrimestre: 130 filas -> data\gold\top_familias_cuatrimestre.csv
+16-11-2026 13:00:57; Informe top_categorias_cuatrimestre: 130 filas -> data\gold\top_categorias_cuatrimestre.csv
+16-11-2026 13:00:57; Informe top_marca_region_cuatrimestre: 260 filas -> data\gold\top_marca_region_cuatrimestre.csv
+16-11-2026 13:00:57; Informe top_marca_region_anio: 90 filas -> data\gold\top_marca_region_anio.csv
+16-11-2026 19:01:03; Extrayendo datos de Bolton
+16-11-2026 19:04:39; Extrayendo datos de Bolton
+16-11-2026 19:07:54; Extrayendo datos de Bolton
+16-11-2026 19:11:38; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+16-11-2026 19:11:38; Eliminadas por PESOS no convertible a número: 0
+16-11-2026 19:11:38; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+16-11-2026 19:11:38; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+16-11-2026 19:11:38; Eliminadas por PESOS = 0: 381
+16-11-2026 19:11:38; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+16-11-2026 19:11:38; Eliminadas por duplicado exacto con factura: 14,095
+16-11-2026 19:11:38; Guardado en data/silver/bolton_silver.csv
+16-11-2026 19:12:43; Integrado silver: 201,044 filas; sin departamento asignado: 0
+16-11-2026 19:12:43; Guardado en data/silver/silver_integrado.csv
+16-11-2026 19:12:48; Gold generado: 201,044 filas, 21 columnas -> data/gold/gold_final.csv
+16-11-2026 19:15:50; Informe por_anio: 9 filas -> data/gold/informe_anual.csv
+16-11-2026 19:15:50; Informe por_cuatrimestre: 26 filas -> data/gold/informe_cuatrimestral.csv
+16-11-2026 19:15:50; Informe top_ciudades: 90 filas -> data/gold/top_ciudades_anio.csv
+16-11-2026 19:15:50; Informe top_productos: 90 filas -> data/gold/top_productos_anio.csv
+16-11-2026 19:15:50; Informe top_vendedores: 90 filas -> data/gold/top_vendedores_anio.csv
+16-11-2026 19:15:50; Informe top_ventas_per_capita: 90 filas -> data/gold/top_ventas_per_capita_anio.csv
+16-11-2026 19:15:50; Informe top_vendedores_per_capita: 90 filas -> data/gold/top_vendedores_per_capita_anio.csv
+16-11-2026 19:15:50; Informe top_productos_cuatrimestre: 130 filas -> data/gold/top_productos_cuatrimestre.csv
+16-11-2026 19:15:50; Informe top_referencias_cuatrimestre: 130 filas -> data/gold/top_referencias_cuatrimestre.csv
+16-11-2026 19:15:50; Informe top_familias_cuatrimestre: 130 filas -> data/gold/top_familias_cuatrimestre.csv
+16-11-2026 19:15:50; Informe top_categorias_cuatrimestre: 130 filas -> data/gold/top_categorias_cuatrimestre.csv
+16-11-2026 19:15:50; Informe top_marca_region_cuatrimestre: 260 filas -> data/gold/top_marca_region_cuatrimestre.csv
+16-11-2026 19:15:50; Informe top_marca_region_anio: 90 filas -> data/gold/top_marca_region_anio.csv
+16-11-2026 19:20:48; Extrayendo datos de Bolton
+16-11-2026 19:22:23; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+16-11-2026 19:22:23; Eliminadas por PESOS no convertible a número: 0
+16-11-2026 19:22:23; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+16-11-2026 19:22:23; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+16-11-2026 19:22:23; Eliminadas por PESOS = 0: 381
+16-11-2026 19:22:23; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+16-11-2026 19:22:23; Eliminadas por duplicado exacto con factura: 14,095
+16-11-2026 19:22:23; Guardado en data/silver/bolton_silver.csv
+16-11-2026 19:22:29; Integrado silver: 201,044 filas; sin departamento asignado: 0
+16-11-2026 19:22:29; Guardado en data/silver/silver_integrado.csv
+16-11-2026 19:22:34; Gold generado: 201,044 filas, 21 columnas -> data/gold/gold_final.csv
+16-11-2026 19:22:38; Informe por_anio: 9 filas -> data/gold/informe_anual.csv
+16-11-2026 19:22:38; Informe por_cuatrimestre: 26 filas -> data/gold/informe_cuatrimestral.csv
+16-11-2026 19:22:38; Informe top_ciudades: 90 filas -> data/gold/top_ciudades_anio.csv
+16-11-2026 19:22:38; Informe top_productos: 90 filas -> data/gold/top_productos_anio.csv
+16-11-2026 19:22:38; Informe top_vendedores: 90 filas -> data/gold/top_vendedores_anio.csv
+16-11-2026 19:22:38; Informe top_ventas_per_capita: 90 filas -> data/gold/top_ventas_per_capita_anio.csv
+16-11-2026 19:22:38; Informe top_vendedores_per_capita: 90 filas -> data/gold/top_vendedores_per_capita_anio.csv
+16-11-2026 19:22:38; Informe top_productos_cuatrimestre: 130 filas -> data/gold/top_productos_cuatrimestre.csv
+16-11-2026 19:22:38; Informe top_referencias_cuatrimestre: 130 filas -> data/gold/top_referencias_cuatrimestre.csv
+16-11-2026 19:22:38; Informe top_familias_cuatrimestre: 130 filas -> data/gold/top_familias_cuatrimestre.csv
+16-11-2026 19:22:38; Informe top_categorias_cuatrimestre: 130 filas -> data/gold/top_categorias_cuatrimestre.csv
+16-11-2026 19:22:38; Informe top_marca_region_cuatrimestre: 260 filas -> data/gold/top_marca_region_cuatrimestre.csv
+16-11-2026 19:22:38; Informe top_marca_region_anio: 90 filas -> data/gold/top_marca_region_anio.csv
+16-11-2026 19:31:27; Extrayendo datos de Bolton
+16-11-2026 19:33:04; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+16-11-2026 19:33:04; Eliminadas por PESOS no convertible a número: 0
+16-11-2026 19:33:04; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+16-11-2026 19:33:04; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+16-11-2026 19:33:04; Eliminadas por PESOS = 0: 381
+16-11-2026 19:33:04; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+16-11-2026 19:33:04; Eliminadas por duplicado exacto con factura: 14,095
+16-11-2026 19:33:04; Guardado en data/silver/bolton_silver.csv
+16-11-2026 19:33:09; Integrado silver: 201,044 filas; sin departamento asignado: 0
+16-11-2026 19:33:09; Guardado en data/silver/silver_integrado.csv
+16-11-2026 19:33:15; Gold generado: 201,044 filas, 21 columnas -> data/gold/gold_final.csv
+16-11-2026 19:33:19; Informe por_anio: 9 filas -> data/gold/informe_anual.csv
+16-11-2026 19:33:19; Informe por_cuatrimestre: 26 filas -> data/gold/informe_cuatrimestral.csv
+16-11-2026 19:33:19; Informe top_ciudades: 90 filas -> data/gold/top_ciudades_anio.csv
+16-11-2026 19:33:19; Informe top_productos: 90 filas -> data/gold/top_productos_anio.csv
+16-11-2026 19:33:19; Informe top_vendedores: 90 filas -> data/gold/top_vendedores_anio.csv
+16-11-2026 19:33:19; Informe top_ventas_per_capita: 90 filas -> data/gold/top_ventas_per_capita_anio.csv
+16-11-2026 19:33:19; Informe top_vendedores_per_capita: 90 filas -> data/gold/top_vendedores_per_capita_anio.csv
+16-11-2026 19:33:19; Informe top_productos_cuatrimestre: 130 filas -> data/gold/top_productos_cuatrimestre.csv
+16-11-2026 19:33:19; Informe top_referencias_cuatrimestre: 130 filas -> data/gold/top_referencias_cuatrimestre.csv
+16-11-2026 19:33:19; Informe top_familias_cuatrimestre: 130 filas -> data/gold/top_familias_cuatrimestre.csv
+16-11-2026 19:33:19; Informe top_categorias_cuatrimestre: 130 filas -> data/gold/top_categorias_cuatrimestre.csv
+16-11-2026 19:33:19; Informe top_marca_region_cuatrimestre: 260 filas -> data/gold/top_marca_region_cuatrimestre.csv
+16-11-2026 19:33:19; Informe top_marca_region_anio: 90 filas -> data/gold/top_marca_region_anio.csv
+16-11-2026 20:00:00; Extrayendo datos de Bolton
+16-11-2026 20:01:36; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+16-11-2026 20:01:36; Eliminadas por PESOS no convertible a número: 0
+16-11-2026 20:01:36; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+16-11-2026 20:01:36; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+16-11-2026 20:01:36; Eliminadas por PESOS = 0: 381
+16-11-2026 20:01:36; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+16-11-2026 20:01:36; Eliminadas por duplicado exacto con factura: 14,095
+16-11-2026 20:01:36; Guardado en data/silver/bolton_silver.csv
+16-11-2026 20:01:41; Integrado silver: 201,044 filas; sin departamento asignado: 0
+16-11-2026 20:01:41; Guardado en data/silver/silver_integrado.csv
+16-11-2026 20:01:47; Gold generado: 201,044 filas, 21 columnas -> data/gold/gold_final.csv
+16-11-2026 20:01:51; Informe por_anio: 9 filas -> data/gold/informe_anual.csv
+16-11-2026 20:01:51; Informe por_cuatrimestre: 26 filas -> data/gold/informe_cuatrimestral.csv
+16-11-2026 20:01:51; Informe top_ciudades: 90 filas -> data/gold/top_ciudades_anio.csv
+16-11-2026 20:01:51; Informe top_productos: 90 filas -> data/gold/top_productos_anio.csv
+16-11-2026 20:01:51; Informe top_vendedores: 90 filas -> data/gold/top_vendedores_anio.csv
+16-11-2026 20:01:51; Informe top_ventas_per_capita: 90 filas -> data/gold/top_ventas_per_capita_anio.csv
+16-11-2026 20:01:51; Informe top_vendedores_per_capita: 90 filas -> data/gold/top_vendedores_per_capita_anio.csv
+16-11-2026 20:01:51; Informe top_productos_cuatrimestre: 130 filas -> data/gold/top_productos_cuatrimestre.csv
+16-11-2026 20:01:51; Informe top_referencias_cuatrimestre: 130 filas -> data/gold/top_referencias_cuatrimestre.csv
+16-11-2026 20:01:51; Informe top_familias_cuatrimestre: 130 filas -> data/gold/top_familias_cuatrimestre.csv
+16-11-2026 20:01:51; Informe top_categorias_cuatrimestre: 130 filas -> data/gold/top_categorias_cuatrimestre.csv
+16-11-2026 20:01:51; Informe top_marca_region_cuatrimestre: 260 filas -> data/gold/top_marca_region_cuatrimestre.csv
+16-11-2026 20:01:51; Informe top_marca_region_anio: 90 filas -> data/gold/top_marca_region_anio.csv
+17-11-2026 00:25:58; Extrayendo datos de Bolton
+17-11-2026 00:31:04; Extrayendo datos de Bolton
+17-11-2026 00:42:25; Extrayendo datos de Bolton
+17-11-2026 00:42:33; Extrayendo datos de Bolton
+17-11-2026 00:44:48; Extrayendo datos de Bolton
+17-11-2026 00:45:02; Extrayendo datos de Bolton
+17-11-2026 00:46:08; Extrayendo datos de Bolton
+17-11-2026 00:51:14; Extrayendo datos de Bolton
+17-11-2026 00:53:03; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+17-11-2026 00:53:03; Eliminadas por PESOS no convertible a número: 0
+17-11-2026 00:53:03; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+17-11-2026 00:53:03; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+17-11-2026 00:53:03; Eliminadas por PESOS = 0: 381
+17-11-2026 00:53:03; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+17-11-2026 00:53:03; Eliminadas por duplicado exacto con factura: 14,095
+17-11-2026 00:53:03; Guardado en data/silver/bolton_silver.csv
+17-11-2026 00:53:09; Integrado silver: 201,044 filas; sin departamento asignado: 0
+17-11-2026 00:53:09; Guardado en data/silver/silver_integrado.csv
+17-11-2026 00:53:16; Gold generado: 201,044 filas, 21 columnas -> data/gold/gold_final.csv
+17-11-2026 00:53:20; Informe por_anio: 9 filas -> data/gold/informe_anual.csv
+17-11-2026 00:53:20; Informe por_cuatrimestre: 26 filas -> data/gold/informe_cuatrimestral.csv
+17-11-2026 00:53:20; Informe top_ciudades: 90 filas -> data/gold/top_ciudades_anio.csv
+17-11-2026 00:53:20; Informe top_productos: 90 filas -> data/gold/top_productos_anio.csv
+17-11-2026 00:53:20; Informe top_vendedores: 90 filas -> data/gold/top_vendedores_anio.csv
+17-11-2026 00:53:20; Informe top_ventas_per_capita: 90 filas -> data/gold/top_ventas_per_capita_anio.csv
+17-11-2026 00:53:20; Informe top_vendedores_per_capita: 90 filas -> data/gold/top_vendedores_per_capita_anio.csv
+17-11-2026 00:53:20; Informe top_productos_cuatrimestre: 130 filas -> data/gold/top_productos_cuatrimestre.csv
+17-11-2026 00:53:20; Informe top_referencias_cuatrimestre: 130 filas -> data/gold/top_referencias_cuatrimestre.csv
+17-11-2026 00:53:20; Informe top_familias_cuatrimestre: 130 filas -> data/gold/top_familias_cuatrimestre.csv
+17-11-2026 00:53:20; Informe top_categorias_cuatrimestre: 130 filas -> data/gold/top_categorias_cuatrimestre.csv
+17-11-2026 00:53:20; Informe top_marca_region_cuatrimestre: 260 filas -> data/gold/top_marca_region_cuatrimestre.csv
+17-11-2026 00:53:20; Informe top_marca_region_anio: 90 filas -> data/gold/top_marca_region_anio.csv
+17-11-2026 00:59:32; Extrayendo datos de Bolton
+17-11-2026 11:55:18; Extrayendo datos de Bolton
+17-11-2026 11:56:40; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+17-11-2026 11:56:40; Eliminadas por PESOS no convertible a número: 0
+17-11-2026 11:56:40; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+17-11-2026 11:56:40; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+17-11-2026 11:56:40; Eliminadas por PESOS = 0: 381
+17-11-2026 11:56:40; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+17-11-2026 11:56:40; Eliminadas por duplicado exacto con factura: 14,095
+17-11-2026 11:56:40; Guardado en data\silver\bolton_silver.csv
+17-11-2026 11:56:42; Integrado silver: 201,044 filas; sin departamento asignado: 0
+17-11-2026 11:56:42; Guardado en data\silver\silver_integrado.csv
+17-11-2026 11:56:44; Gold generado: 201,044 filas, 21 columnas -> data\gold\gold_final.csv
+17-11-2026 11:56:45; Informe por_anio: 9 filas -> data\gold\informe_anual.csv
+17-11-2026 11:56:45; Informe por_cuatrimestre: 26 filas -> data\gold\informe_cuatrimestral.csv
+17-11-2026 11:56:45; Informe top_ciudades: 90 filas -> data\gold\top_ciudades_anio.csv
+17-11-2026 11:56:45; Informe top_productos: 90 filas -> data\gold\top_productos_anio.csv
+17-11-2026 11:56:45; Informe top_vendedores: 90 filas -> data\gold\top_vendedores_anio.csv
+17-11-2026 11:56:45; Informe top_ventas_per_capita: 90 filas -> data\gold\top_ventas_per_capita_anio.csv
+17-11-2026 11:56:45; Informe top_vendedores_per_capita: 90 filas -> data\gold\top_vendedores_per_capita_anio.csv
+17-11-2026 11:56:45; Informe top_productos_cuatrimestre: 130 filas -> data\gold\top_productos_cuatrimestre.csv
+17-11-2026 11:56:45; Informe top_referencias_cuatrimestre: 130 filas -> data\gold\top_referencias_cuatrimestre.csv
+17-11-2026 11:56:45; Informe top_familias_cuatrimestre: 130 filas -> data\gold\top_familias_cuatrimestre.csv
+17-11-2026 11:56:45; Informe top_categorias_cuatrimestre: 130 filas -> data\gold\top_categorias_cuatrimestre.csv
+17-11-2026 11:56:45; Informe top_marca_region_cuatrimestre: 260 filas -> data\gold\top_marca_region_cuatrimestre.csv
+17-11-2026 11:56:45; Informe top_marca_region_anio: 90 filas -> data\gold\top_marca_region_anio.csv
+17-11-2026 17:27:43; Extrayendo datos de Bolton
+17-11-2026 17:29:35; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+17-11-2026 17:29:35; Eliminadas por PESOS no convertible a número: 0
+17-11-2026 17:29:35; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+17-11-2026 17:29:35; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+17-11-2026 17:29:35; Eliminadas por PESOS = 0: 381
+17-11-2026 17:29:35; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+17-11-2026 17:29:35; Eliminadas por duplicado exacto con factura: 14,095
+17-11-2026 17:29:35; Guardado en data/silver/bolton_silver.csv
+17-11-2026 17:29:41; Integrado silver: 201,044 filas; sin departamento asignado: 0
+17-11-2026 17:29:41; Guardado en data/silver/silver_integrado.csv
+17-11-2026 17:29:49; Gold generado: 201,044 filas, 21 columnas -> data/gold/gold_final.csv
+17-11-2026 17:29:54; Informe por_anio: 9 filas -> data/gold/informe_anual.csv
+17-11-2026 17:29:54; Informe por_cuatrimestre: 26 filas -> data/gold/informe_cuatrimestral.csv
+17-11-2026 17:29:54; Informe top_ciudades: 90 filas -> data/gold/top_ciudades_anio.csv
+17-11-2026 17:29:54; Informe top_productos: 90 filas -> data/gold/top_productos_anio.csv
+17-11-2026 17:29:54; Informe top_vendedores: 90 filas -> data/gold/top_vendedores_anio.csv
+17-11-2026 17:29:54; Informe top_ventas_per_capita: 90 filas -> data/gold/top_ventas_per_capita_anio.csv
+17-11-2026 17:29:54; Informe top_vendedores_per_capita: 90 filas -> data/gold/top_vendedores_per_capita_anio.csv
+17-11-2026 17:29:54; Informe top_productos_cuatrimestre: 130 filas -> data/gold/top_productos_cuatrimestre.csv
+17-11-2026 17:29:54; Informe top_referencias_cuatrimestre: 130 filas -> data/gold/top_referencias_cuatrimestre.csv
+17-11-2026 17:29:54; Informe top_familias_cuatrimestre: 130 filas -> data/gold/top_familias_cuatrimestre.csv
+17-11-2026 17:29:54; Informe top_categorias_cuatrimestre: 130 filas -> data/gold/top_categorias_cuatrimestre.csv
+17-11-2026 17:29:54; Informe top_marca_region_cuatrimestre: 260 filas -> data/gold/top_marca_region_cuatrimestre.csv
+17-11-2026 17:29:54; Informe top_marca_region_anio: 90 filas -> data/gold/top_marca_region_anio.csv
+17-11-2026 17:35:56; Extrayendo datos de Bolton
+18-11-2026 14:20:51; Extrayendo datos de Bolton
+18-11-2026 14:22:13; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+18-11-2026 14:22:13; Eliminadas por PESOS no convertible a número: 0
+18-11-2026 14:22:13; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+18-11-2026 14:22:13; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+18-11-2026 14:22:13; Eliminadas por PESOS = 0: 381
+18-11-2026 14:22:13; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+18-11-2026 14:22:13; Eliminadas por duplicado exacto con factura: 14,095
+18-11-2026 14:22:13; Guardado en data\silver\bolton_silver.csv
+18-11-2026 14:22:14; Integrado silver: 201,044 filas; sin departamento asignado: 0
+18-11-2026 14:22:14; Guardado en data\silver\silver_integrado.csv
+18-11-2026 14:22:16; Gold generado: 201,044 filas, 21 columnas -> data\gold\gold_final.csv
+18-11-2026 14:22:17; Informe por_anio: 9 filas -> data\gold\informe_anual.csv
+18-11-2026 14:22:17; Informe por_cuatrimestre: 26 filas -> data\gold\informe_cuatrimestral.csv
+18-11-2026 14:22:17; Informe top_ciudades: 90 filas -> data\gold\top_ciudades_anio.csv
+18-11-2026 14:22:17; Informe top_productos: 90 filas -> data\gold\top_productos_anio.csv
+18-11-2026 14:22:17; Informe top_vendedores: 90 filas -> data\gold\top_vendedores_anio.csv
+18-11-2026 14:22:17; Informe top_ventas_per_capita: 90 filas -> data\gold\top_ventas_per_capita_anio.csv
+18-11-2026 14:22:17; Informe top_vendedores_per_capita: 90 filas -> data\gold\top_vendedores_per_capita_anio.csv
+18-11-2026 14:22:17; Informe top_productos_cuatrimestre: 130 filas -> data\gold\top_productos_cuatrimestre.csv
+18-11-2026 14:22:17; Informe top_referencias_cuatrimestre: 130 filas -> data\gold\top_referencias_cuatrimestre.csv
+18-11-2026 14:22:17; Informe top_familias_cuatrimestre: 130 filas -> data\gold\top_familias_cuatrimestre.csv
+18-11-2026 14:22:17; Informe top_categorias_cuatrimestre: 130 filas -> data\gold\top_categorias_cuatrimestre.csv
+18-11-2026 14:22:17; Informe top_marca_region_cuatrimestre: 260 filas -> data\gold\top_marca_region_cuatrimestre.csv
+18-11-2026 14:22:17; Informe top_marca_region_anio: 90 filas -> data\gold\top_marca_region_anio.csv
+18-11-2026 14:22:42; Extrayendo datos de Bolton
+18-11-2026 14:24:06; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+18-11-2026 14:24:06; Eliminadas por PESOS no convertible a número: 0
+18-11-2026 14:24:06; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+18-11-2026 14:24:06; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+18-11-2026 14:24:06; Eliminadas por PESOS = 0: 381
+18-11-2026 14:24:06; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+18-11-2026 14:24:06; Eliminadas por duplicado exacto con factura: 14,095
+18-11-2026 14:24:06; Guardado en data\silver\bolton_silver.csv
+18-11-2026 14:24:08; Integrado silver: 201,044 filas; sin departamento asignado: 0
+18-11-2026 14:24:08; Guardado en data\silver\silver_integrado.csv
+18-11-2026 14:24:10; Gold generado: 201,044 filas, 21 columnas -> data\gold\gold_final.csv
+18-11-2026 14:24:11; Informe por_anio: 9 filas -> data\gold\informe_anual.csv
+18-11-2026 14:24:11; Informe por_cuatrimestre: 26 filas -> data\gold\informe_cuatrimestral.csv
+18-11-2026 14:24:11; Informe top_ciudades: 90 filas -> data\gold\top_ciudades_anio.csv
+18-11-2026 14:24:11; Informe top_productos: 90 filas -> data\gold\top_productos_anio.csv
+18-11-2026 14:24:11; Informe top_vendedores: 90 filas -> data\gold\top_vendedores_anio.csv
+18-11-2026 14:24:11; Informe top_ventas_per_capita: 90 filas -> data\gold\top_ventas_per_capita_anio.csv
+18-11-2026 14:24:11; Informe top_vendedores_per_capita: 90 filas -> data\gold\top_vendedores_per_capita_anio.csv
+18-11-2026 14:24:11; Informe top_productos_cuatrimestre: 130 filas -> data\gold\top_productos_cuatrimestre.csv
+18-11-2026 14:24:11; Informe top_referencias_cuatrimestre: 130 filas -> data\gold\top_referencias_cuatrimestre.csv
+18-11-2026 14:24:11; Informe top_familias_cuatrimestre: 130 filas -> data\gold\top_familias_cuatrimestre.csv
+18-11-2026 14:24:11; Informe top_categorias_cuatrimestre: 130 filas -> data\gold\top_categorias_cuatrimestre.csv
+18-11-2026 14:24:11; Informe top_marca_region_cuatrimestre: 260 filas -> data\gold\top_marca_region_cuatrimestre.csv
+18-11-2026 14:24:11; Informe top_marca_region_anio: 90 filas -> data\gold\top_marca_region_anio.csv
+18-11-2026 20:03:35; Extrayendo datos de Bolton
+18-11-2026 20:05:11; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+18-11-2026 20:05:11; Eliminadas por PESOS no convertible a número: 0
+18-11-2026 20:05:11; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+18-11-2026 20:05:11; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+18-11-2026 20:05:11; Eliminadas por PESOS = 0: 381
+18-11-2026 20:05:11; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+18-11-2026 20:05:11; Eliminadas por duplicado exacto con factura: 14,095
+18-11-2026 20:05:11; Guardado en data/silver/bolton_silver.csv
+18-11-2026 20:05:16; Integrado silver: 201,044 filas; sin departamento asignado: 0
+18-11-2026 20:05:16; Guardado en data/silver/silver_integrado.csv
+18-11-2026 20:05:22; Gold generado: 201,044 filas, 21 columnas -> data/gold/gold_final.csv
+18-11-2026 20:05:27; Informe por_anio: 9 filas -> data/gold/informe_anual.csv
+18-11-2026 20:05:27; Informe por_cuatrimestre: 26 filas -> data/gold/informe_cuatrimestral.csv
+18-11-2026 20:05:27; Informe top_ciudades: 90 filas -> data/gold/top_ciudades_anio.csv
+18-11-2026 20:05:27; Informe top_productos: 90 filas -> data/gold/top_productos_anio.csv
+18-11-2026 20:05:27; Informe top_vendedores: 90 filas -> data/gold/top_vendedores_anio.csv
+18-11-2026 20:05:27; Informe top_ventas_per_capita: 90 filas -> data/gold/top_ventas_per_capita_anio.csv
+18-11-2026 20:05:27; Informe top_vendedores_per_capita: 90 filas -> data/gold/top_vendedores_per_capita_anio.csv
+18-11-2026 20:05:27; Informe top_productos_cuatrimestre: 130 filas -> data/gold/top_productos_cuatrimestre.csv
+18-11-2026 20:05:27; Informe top_referencias_cuatrimestre: 130 filas -> data/gold/top_referencias_cuatrimestre.csv
+18-11-2026 20:05:27; Informe top_familias_cuatrimestre: 130 filas -> data/gold/top_familias_cuatrimestre.csv
+18-11-2026 20:05:27; Informe top_categorias_cuatrimestre: 130 filas -> data/gold/top_categorias_cuatrimestre.csv
+18-11-2026 20:05:27; Informe top_marca_region_cuatrimestre: 260 filas -> data/gold/top_marca_region_cuatrimestre.csv
+18-11-2026 20:05:27; Informe top_marca_region_anio: 90 filas -> data/gold/top_marca_region_anio.csv
+18-11-2026 20:10:31; Extrayendo datos de Bolton
+18-11-2026 20:12:09; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+18-11-2026 20:12:09; Eliminadas por PESOS no convertible a número: 0
+18-11-2026 20:12:09; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+18-11-2026 20:12:09; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+18-11-2026 20:12:09; Eliminadas por PESOS = 0: 381
+18-11-2026 20:12:09; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+18-11-2026 20:12:09; Eliminadas por duplicado exacto con factura: 14,095
+18-11-2026 20:12:09; Guardado en data/silver/bolton_silver.csv
+18-11-2026 20:12:14; Integrado silver: 201,044 filas; sin departamento asignado: 0
+18-11-2026 20:12:14; Guardado en data/silver/silver_integrado.csv
+18-11-2026 20:12:20; Gold generado: 201,044 filas, 21 columnas -> data/gold/gold_final.csv
+18-11-2026 20:12:24; Informe por_anio: 9 filas -> data/gold/informe_anual.csv
+18-11-2026 20:12:24; Informe por_cuatrimestre: 26 filas -> data/gold/informe_cuatrimestral.csv
+18-11-2026 20:12:24; Informe top_ciudades: 90 filas -> data/gold/top_ciudades_anio.csv
+18-11-2026 20:12:24; Informe top_productos: 90 filas -> data/gold/top_productos_anio.csv
+18-11-2026 20:12:24; Informe top_vendedores: 90 filas -> data/gold/top_vendedores_anio.csv
+18-11-2026 20:12:24; Informe top_ventas_per_capita: 90 filas -> data/gold/top_ventas_per_capita_anio.csv
+18-11-2026 20:12:24; Informe top_vendedores_per_capita: 90 filas -> data/gold/top_vendedores_per_capita_anio.csv
+18-11-2026 20:12:24; Informe top_productos_cuatrimestre: 130 filas -> data/gold/top_productos_cuatrimestre.csv
+18-11-2026 20:12:24; Informe top_referencias_cuatrimestre: 130 filas -> data/gold/top_referencias_cuatrimestre.csv
+18-11-2026 20:12:24; Informe top_familias_cuatrimestre: 130 filas -> data/gold/top_familias_cuatrimestre.csv
+18-11-2026 20:12:24; Informe top_categorias_cuatrimestre: 130 filas -> data/gold/top_categorias_cuatrimestre.csv
+18-11-2026 20:12:24; Informe top_marca_region_cuatrimestre: 260 filas -> data/gold/top_marca_region_cuatrimestre.csv
+18-11-2026 20:12:24; Informe top_marca_region_anio: 90 filas -> data/gold/top_marca_region_anio.csv
+18-11-2026 20:17:30; Extrayendo datos de Bolton
+18-11-2026 18:20:01; Extrayendo datos de Bolton
+18-11-2026 18:42:33; Extrayendo datos de Bolton
+18-11-2026 18:43:59; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+18-11-2026 18:43:59; Eliminadas por PESOS no convertible a número: 0
+18-11-2026 18:43:59; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+18-11-2026 18:43:59; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+18-11-2026 18:43:59; Eliminadas por PESOS = 0: 381
+18-11-2026 18:43:59; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+18-11-2026 18:43:59; Eliminadas por duplicado exacto con factura: 14,095
+18-11-2026 18:43:59; Guardado en data\silver\bolton_silver.csv
+18-11-2026 18:44:01; Integrado silver: 201,044 filas; sin departamento asignado: 0
+18-11-2026 18:44:01; Guardado en data\silver\silver_integrado.csv
+18-11-2026 18:44:02; Gold generado: 201,044 filas, 21 columnas -> data\gold\gold_final.csv
+18-11-2026 18:44:03; Informe por_anio: 9 filas -> data\gold\informe_anual.csv
+18-11-2026 18:44:03; Informe por_cuatrimestre: 26 filas -> data\gold\informe_cuatrimestral.csv
+18-11-2026 18:44:03; Informe top_ciudades: 90 filas -> data\gold\top_ciudades_anio.csv
+18-11-2026 18:44:03; Informe top_productos: 90 filas -> data\gold\top_productos_anio.csv
+18-11-2026 18:44:03; Informe top_vendedores: 90 filas -> data\gold\top_vendedores_anio.csv
+18-11-2026 18:44:03; Informe top_ventas_per_capita: 90 filas -> data\gold\top_ventas_per_capita_anio.csv
+18-11-2026 18:44:03; Informe top_vendedores_per_capita: 90 filas -> data\gold\top_vendedores_per_capita_anio.csv
+18-11-2026 18:44:03; Informe top_productos_cuatrimestre: 130 filas -> data\gold\top_productos_cuatrimestre.csv
+18-11-2026 18:44:03; Informe top_referencias_cuatrimestre: 130 filas -> data\gold\top_referencias_cuatrimestre.csv
+18-11-2026 18:44:03; Informe top_familias_cuatrimestre: 130 filas -> data\gold\top_familias_cuatrimestre.csv
+18-11-2026 18:44:03; Informe top_categorias_cuatrimestre: 130 filas -> data\gold\top_categorias_cuatrimestre.csv
+18-11-2026 18:44:03; Informe top_marca_region_cuatrimestre: 260 filas -> data\gold\top_marca_region_cuatrimestre.csv
+18-11-2026 18:44:03; Informe top_marca_region_anio: 90 filas -> data\gold\top_marca_region_anio.csv
+18-11-2026 23:50:37; Extrayendo datos de Bolton
+18-11-2026 23:52:14; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+18-11-2026 23:52:14; Eliminadas por PESOS no convertible a número: 0
+18-11-2026 23:52:14; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+18-11-2026 23:52:14; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+18-11-2026 23:52:14; Eliminadas por PESOS = 0: 381
+18-11-2026 23:52:14; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+18-11-2026 23:52:14; Eliminadas por duplicado exacto con factura: 14,095
+18-11-2026 23:52:14; Guardado en data/silver/bolton_silver.csv
+18-11-2026 23:52:20; Integrado silver: 201,044 filas; sin departamento asignado: 0
+18-11-2026 23:52:20; Guardado en data/silver/silver_integrado.csv
+18-11-2026 23:52:26; Gold generado: 201,044 filas, 21 columnas -> data/gold/gold_final.csv
+18-11-2026 23:52:30; Informe por_anio: 9 filas -> data/gold/informe_anual.csv
+18-11-2026 23:52:30; Informe por_cuatrimestre: 26 filas -> data/gold/informe_cuatrimestral.csv
+18-11-2026 23:52:30; Informe top_ciudades: 90 filas -> data/gold/top_ciudades_anio.csv
+18-11-2026 23:52:30; Informe top_productos: 90 filas -> data/gold/top_productos_anio.csv
+18-11-2026 23:52:30; Informe top_vendedores: 90 filas -> data/gold/top_vendedores_anio.csv
+18-11-2026 23:52:30; Informe top_ventas_per_capita: 90 filas -> data/gold/top_ventas_per_capita_anio.csv
+18-11-2026 23:52:30; Informe top_vendedores_per_capita: 90 filas -> data/gold/top_vendedores_per_capita_anio.csv
+18-11-2026 23:52:30; Informe top_productos_cuatrimestre: 130 filas -> data/gold/top_productos_cuatrimestre.csv
+18-11-2026 23:52:30; Informe top_referencias_cuatrimestre: 130 filas -> data/gold/top_referencias_cuatrimestre.csv
+18-11-2026 23:52:30; Informe top_familias_cuatrimestre: 130 filas -> data/gold/top_familias_cuatrimestre.csv
+18-11-2026 23:52:30; Informe top_categorias_cuatrimestre: 130 filas -> data/gold/top_categorias_cuatrimestre.csv
+18-11-2026 23:52:30; Informe top_marca_region_cuatrimestre: 260 filas -> data/gold/top_marca_region_cuatrimestre.csv
+18-11-2026 23:52:30; Informe top_marca_region_anio: 90 filas -> data/gold/top_marca_region_anio.csv
+18-11-2026 23:57:27; Extrayendo datos de Bolton
+19-11-2026 15:05:50; Extrayendo datos de Bolton
+19-11-2026 15:07:14; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+19-11-2026 15:07:14; Eliminadas por PESOS no convertible a número: 0
+19-11-2026 15:07:14; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+19-11-2026 15:07:14; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+19-11-2026 15:07:14; Eliminadas por PESOS = 0: 381
+19-11-2026 15:07:14; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+19-11-2026 15:07:14; Eliminadas por duplicado exacto con factura: 14,095
+19-11-2026 15:07:14; Guardado en data\silver\bolton_silver.csv
+19-11-2026 15:07:16; Integrado silver: 201,044 filas; sin departamento asignado: 0
+19-11-2026 15:07:16; Guardado en data\silver\silver_integrado.csv
+19-11-2026 15:07:18; Gold generado: 201,044 filas, 21 columnas -> data\gold\gold_final.csv
+19-11-2026 15:07:19; Informe por_anio: 9 filas -> data\gold\informe_anual.csv
+19-11-2026 15:07:19; Informe por_cuatrimestre: 26 filas -> data\gold\informe_cuatrimestral.csv
+19-11-2026 15:07:19; Informe top_ciudades: 90 filas -> data\gold\top_ciudades_anio.csv
+19-11-2026 15:07:19; Informe top_productos: 90 filas -> data\gold\top_productos_anio.csv
+19-11-2026 15:07:19; Informe top_vendedores: 90 filas -> data\gold\top_vendedores_anio.csv
+19-11-2026 15:07:19; Informe top_ventas_per_capita: 90 filas -> data\gold\top_ventas_per_capita_anio.csv
+19-11-2026 15:07:19; Informe top_vendedores_per_capita: 90 filas -> data\gold\top_vendedores_per_capita_anio.csv
+19-11-2026 15:07:19; Informe top_productos_cuatrimestre: 130 filas -> data\gold\top_productos_cuatrimestre.csv
+19-11-2026 15:07:19; Informe top_referencias_cuatrimestre: 130 filas -> data\gold\top_referencias_cuatrimestre.csv
+19-11-2026 15:07:19; Informe top_familias_cuatrimestre: 130 filas -> data\gold\top_familias_cuatrimestre.csv
+19-11-2026 15:07:19; Informe top_categorias_cuatrimestre: 130 filas -> data\gold\top_categorias_cuatrimestre.csv
+19-11-2026 15:07:19; Informe top_marca_region_cuatrimestre: 260 filas -> data\gold\top_marca_region_cuatrimestre.csv
+19-11-2026 15:07:19; Informe top_marca_region_anio: 90 filas -> data\gold\top_marca_region_anio.csv
+19-11-2026 15:27:25; Extrayendo datos de Bolton
+19-11-2026 15:28:49; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+19-11-2026 15:28:49; Eliminadas por PESOS no convertible a número: 0
+19-11-2026 15:28:49; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+19-11-2026 15:28:49; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+19-11-2026 15:28:49; Eliminadas por PESOS = 0: 381
+19-11-2026 15:28:49; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+19-11-2026 15:28:49; Eliminadas por duplicado exacto con factura: 14,095
+19-11-2026 15:28:49; Guardado en data\silver\bolton_silver.csv
+19-11-2026 15:28:51; Integrado silver: 201,044 filas; sin departamento asignado: 0
+19-11-2026 15:28:51; Guardado en data\silver\silver_integrado.csv
+19-11-2026 15:28:53; Gold generado: 201,044 filas, 21 columnas -> data\gold\gold_final.csv
+19-11-2026 15:28:54; Informe por_anio: 9 filas -> data\gold\informe_anual.csv
+19-11-2026 15:28:54; Informe por_cuatrimestre: 26 filas -> data\gold\informe_cuatrimestral.csv
+19-11-2026 15:28:54; Informe top_ciudades: 90 filas -> data\gold\top_ciudades_anio.csv
+19-11-2026 15:28:54; Informe top_productos: 90 filas -> data\gold\top_productos_anio.csv
+19-11-2026 15:28:54; Informe top_vendedores: 90 filas -> data\gold\top_vendedores_anio.csv
+19-11-2026 15:28:54; Informe top_ventas_per_capita: 90 filas -> data\gold\top_ventas_per_capita_anio.csv
+19-11-2026 15:28:54; Informe top_vendedores_per_capita: 90 filas -> data\gold\top_vendedores_per_capita_anio.csv
+19-11-2026 15:28:54; Informe top_productos_cuatrimestre: 130 filas -> data\gold\top_productos_cuatrimestre.csv
+19-11-2026 15:28:54; Informe top_referencias_cuatrimestre: 130 filas -> data\gold\top_referencias_cuatrimestre.csv
+19-11-2026 15:28:54; Informe top_familias_cuatrimestre: 130 filas -> data\gold\top_familias_cuatrimestre.csv
+19-11-2026 15:28:54; Informe top_categorias_cuatrimestre: 130 filas -> data\gold\top_categorias_cuatrimestre.csv
+19-11-2026 15:28:54; Informe top_marca_region_cuatrimestre: 260 filas -> data\gold\top_marca_region_cuatrimestre.csv
+19-11-2026 15:28:54; Informe top_marca_region_anio: 90 filas -> data\gold\top_marca_region_anio.csv
+19-11-2026 20:45:57; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+19-11-2026 20:45:57; Eliminadas por PESOS no convertible a número: 0
+19-11-2026 20:45:57; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+19-11-2026 20:45:57; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+19-11-2026 20:45:57; Eliminadas por PESOS = 0: 381
+19-11-2026 20:45:57; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+19-11-2026 20:45:57; Eliminadas por duplicado exacto con factura: 14,095
+19-11-2026 20:45:57; Guardado en data/silver/bolton_silver.csv
+19-11-2026 20:46:03; Integrado silver: 201,044 filas; sin departamento asignado: 0
+19-11-2026 20:46:03; Guardado en data/silver/silver_integrado.csv
+19-11-2026 20:46:09; Gold generado: 201,044 filas, 21 columnas -> data/gold/gold_final.csv
+19-11-2026 20:46:12; Informe por_anio: 9 filas -> data/gold/informe_anual.csv
+19-11-2026 20:46:12; Informe por_cuatrimestre: 26 filas -> data/gold/informe_cuatrimestral.csv
+19-11-2026 20:46:12; Informe top_ciudades: 90 filas -> data/gold/top_ciudades_anio.csv
+19-11-2026 20:46:12; Informe top_productos: 90 filas -> data/gold/top_productos_anio.csv
+19-11-2026 20:46:12; Informe top_vendedores: 90 filas -> data/gold/top_vendedores_anio.csv
+19-11-2026 20:46:12; Informe top_ventas_per_capita: 90 filas -> data/gold/top_ventas_per_capita_anio.csv
+19-11-2026 20:46:12; Informe top_vendedores_per_capita: 90 filas -> data/gold/top_vendedores_per_capita_anio.csv
+19-11-2026 20:46:12; Informe top_productos_cuatrimestre: 130 filas -> data/gold/top_productos_cuatrimestre.csv
+19-11-2026 20:46:12; Informe top_referencias_cuatrimestre: 130 filas -> data/gold/top_referencias_cuatrimestre.csv
+19-11-2026 20:46:12; Informe top_familias_cuatrimestre: 130 filas -> data/gold/top_familias_cuatrimestre.csv
+19-11-2026 20:46:12; Informe top_categorias_cuatrimestre: 130 filas -> data/gold/top_categorias_cuatrimestre.csv
+19-11-2026 20:46:12; Informe top_marca_region_cuatrimestre: 260 filas -> data/gold/top_marca_region_cuatrimestre.csv
+19-11-2026 20:46:12; Informe top_marca_region_anio: 90 filas -> data/gold/top_marca_region_anio.csv
+19-11-2026 20:51:08; Extrayendo datos de Bolton
+19-11-2026 20:52:42; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+19-11-2026 20:52:42; Eliminadas por PESOS no convertible a número: 0
+19-11-2026 20:52:42; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+19-11-2026 20:52:42; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+19-11-2026 20:52:42; Eliminadas por PESOS = 0: 381
+19-11-2026 20:52:42; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+19-11-2026 20:52:42; Eliminadas por duplicado exacto con factura: 14,095
+19-11-2026 20:52:42; Guardado en data/silver/bolton_silver.csv
+19-11-2026 20:52:48; Integrado silver: 201,044 filas; sin departamento asignado: 0
+19-11-2026 20:52:48; Guardado en data/silver/silver_integrado.csv
+19-11-2026 20:52:53; Gold generado: 201,044 filas, 21 columnas -> data/gold/gold_final.csv
+19-11-2026 20:52:58; Informe por_anio: 9 filas -> data/gold/informe_anual.csv
+19-11-2026 20:52:58; Informe por_cuatrimestre: 26 filas -> data/gold/informe_cuatrimestral.csv
+19-11-2026 20:52:58; Informe top_ciudades: 90 filas -> data/gold/top_ciudades_anio.csv
+19-11-2026 20:52:58; Informe top_productos: 90 filas -> data/gold/top_productos_anio.csv
+19-11-2026 20:52:58; Informe top_vendedores: 90 filas -> data/gold/top_vendedores_anio.csv
+19-11-2026 20:52:58; Informe top_ventas_per_capita: 90 filas -> data/gold/top_ventas_per_capita_anio.csv
+19-11-2026 20:52:58; Informe top_vendedores_per_capita: 90 filas -> data/gold/top_vendedores_per_capita_anio.csv
+19-11-2026 20:52:58; Informe top_productos_cuatrimestre: 130 filas -> data/gold/top_productos_cuatrimestre.csv
+19-11-2026 20:52:58; Informe top_referencias_cuatrimestre: 130 filas -> data/gold/top_referencias_cuatrimestre.csv
+19-11-2026 20:52:58; Informe top_familias_cuatrimestre: 130 filas -> data/gold/top_familias_cuatrimestre.csv
+19-11-2026 20:52:58; Informe top_categorias_cuatrimestre: 130 filas -> data/gold/top_categorias_cuatrimestre.csv
+19-11-2026 20:52:58; Informe top_marca_region_cuatrimestre: 260 filas -> data/gold/top_marca_region_cuatrimestre.csv
+19-11-2026 20:52:58; Informe top_marca_region_anio: 90 filas -> data/gold/top_marca_region_anio.csv
+19-11-2026 20:57:59; Extrayendo datos de Bolton
+19-11-2026 20:59:31; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+19-11-2026 20:59:31; Eliminadas por PESOS no convertible a número: 0
+19-11-2026 20:59:31; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+19-11-2026 20:59:31; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+19-11-2026 20:59:31; Eliminadas por PESOS = 0: 381
+19-11-2026 20:59:31; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+19-11-2026 20:59:31; Eliminadas por duplicado exacto con factura: 14,095
+19-11-2026 20:59:31; Guardado en data/silver/bolton_silver.csv
+19-11-2026 20:59:37; Integrado silver: 201,044 filas; sin departamento asignado: 0
+19-11-2026 20:59:37; Guardado en data/silver/silver_integrado.csv
+19-11-2026 20:59:42; Gold generado: 201,044 filas, 21 columnas -> data/gold/gold_final.csv
+19-11-2026 20:59:45; Informe por_anio: 9 filas -> data/gold/informe_anual.csv
+19-11-2026 20:59:45; Informe por_cuatrimestre: 26 filas -> data/gold/informe_cuatrimestral.csv
+19-11-2026 20:59:45; Informe top_ciudades: 90 filas -> data/gold/top_ciudades_anio.csv
+19-11-2026 20:59:45; Informe top_productos: 90 filas -> data/gold/top_productos_anio.csv
+19-11-2026 20:59:45; Informe top_vendedores: 90 filas -> data/gold/top_vendedores_anio.csv
+19-11-2026 20:59:45; Informe top_ventas_per_capita: 90 filas -> data/gold/top_ventas_per_capita_anio.csv
+19-11-2026 20:59:45; Informe top_vendedores_per_capita: 90 filas -> data/gold/top_vendedores_per_capita_anio.csv
+19-11-2026 20:59:45; Informe top_productos_cuatrimestre: 130 filas -> data/gold/top_productos_cuatrimestre.csv
+19-11-2026 20:59:45; Informe top_referencias_cuatrimestre: 130 filas -> data/gold/top_referencias_cuatrimestre.csv
+19-11-2026 20:59:45; Informe top_familias_cuatrimestre: 130 filas -> data/gold/top_familias_cuatrimestre.csv
+19-11-2026 20:59:45; Informe top_categorias_cuatrimestre: 130 filas -> data/gold/top_categorias_cuatrimestre.csv
+19-11-2026 20:59:45; Informe top_marca_region_cuatrimestre: 260 filas -> data/gold/top_marca_region_cuatrimestre.csv
+19-11-2026 20:59:45; Informe top_marca_region_anio: 90 filas -> data/gold/top_marca_region_anio.csv
+19-11-2026 16:07:50; Extrayendo datos de Bolton
+19-11-2026 16:09:18; Eliminadas por sin PESOS (forecast, inventario, líneas vacías): 60,474
+19-11-2026 16:09:18; Eliminadas por PESOS no convertible a número: 0
+19-11-2026 16:09:18; Eliminadas por traslado interno (COLOMBOESPAÑOLA): 13,468
+19-11-2026 16:09:18; Eliminadas por devoluciones (FACTURA (-) o PESOS < 0): 18,613
+19-11-2026 16:09:18; Eliminadas por PESOS = 0: 381
+19-11-2026 16:09:18; Eliminadas por sep-dic 2026 (periodo incompleto): 94
+19-11-2026 16:09:18; Eliminadas por duplicado exacto con factura: 14,095
+19-11-2026 16:09:18; Guardado en data\silver\bolton_silver.csv
+19-11-2026 16:09:20; Integrado silver: 201,044 filas; sin departamento asignado: 0
+19-11-2026 16:09:20; Guardado en data\silver\silver_integrado.csv
+19-11-2026 16:09:22; Gold generado: 201,044 filas, 21 columnas -> data\gold\gold_final.csv
+19-11-2026 16:09:23; Informe por_anio: 9 filas -> data\gold\informe_anual.csv
+19-11-2026 16:09:23; Informe por_cuatrimestre: 26 filas -> data\gold\informe_cuatrimestral.csv
+19-11-2026 16:09:23; Informe top_ciudades: 90 filas -> data\gold\top_ciudades_anio.csv
+19-11-2026 16:09:23; Informe top_productos: 90 filas -> data\gold\top_productos_anio.csv
+19-11-2026 16:09:23; Informe top_vendedores: 90 filas -> data\gold\top_vendedores_anio.csv
+19-11-2026 16:09:23; Informe top_ventas_per_capita: 90 filas -> data\gold\top_ventas_per_capita_anio.csv
+19-11-2026 16:09:23; Informe top_vendedores_per_capita: 90 filas -> data\gold\top_vendedores_per_capita_anio.csv
+19-11-2026 16:09:23; Informe top_productos_cuatrimestre: 130 filas -> data\gold\top_productos_cuatrimestre.csv
+19-11-2026 16:09:23; Informe top_referencias_cuatrimestre: 130 filas -> data\gold\top_referencias_cuatrimestre.csv
+19-11-2026 16:09:23; Informe top_familias_cuatrimestre: 130 filas -> data\gold\top_familias_cuatrimestre.csv
+19-11-2026 16:09:23; Informe top_categorias_cuatrimestre: 130 filas -> data\gold\top_categorias_cuatrimestre.csv
+19-11-2026 16:09:23; Informe top_marca_region_cuatrimestre: 260 filas -> data\gold\top_marca_region_cuatrimestre.csv
+19-11-2026 16:09:23; Informe top_marca_region_anio: 90 filas -> data\gold\top_marca_region_anio.csv

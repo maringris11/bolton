@@ -1,0 +1,67 @@
+project:
+  name: "Informe Bolton — ETL de Resultados Comerciales"
+  version: "1.0"
+  description: "Este proyecto hace un ETL de resultados comerciales para generar informes anuales y cuatrimestrales, incluyendo análisis de ventas por región, ciudad, producto y vendedor."
+  author: "Juan pablo castillo,Joseph marin, alejandro marin y jose alfredo gonzalias"
+  license: "MIT"
+  
+  date : "2026-11-19"
+
+api:
+  base_url: "https://api-colombia.com/api/v1"
+  endpoint_areas: "Department"
+  timeout: 30
+
+database:
+  driver: mysql+pymysql
+  host: host.docker.internal
+  port: 3306
+  name: bolton
+
+paths:
+  bronze: "data/bronze"
+  silver: "data/silver"
+  gold: "data/gold"
+  images: "data/gold/images"
+  logs: "logs"
+
+files:
+  areas_bronze: "departamentos.csv"
+  bolton_bronze: "bolton.xlsx"
+  gold: "gold_final.csv"
+  areas_silver: "areas.csv"
+  bolton_silver: "bolton_silver.csv"
+  integrado_silver: "silver_integrado.csv"
+  
+
+mapeo_regiones:
+  ANTIOQUIA: ["Antioquia"]
+  BOGOTA: ["Bogotá"]
+  BOYACA: ["Boyacá"]
+  COSTA: ["Atlántico", "Bolívar", "Magdalena", "Cesar", "Córdoba", "Sucre", "La Guajira"]
+  CUNDINAMARCA: ["Cundinamarca"]
+  EJE CAFETERO: ["Caldas", "Risaralda", "Quindío"]
+  META: ["Meta"]
+  SANTANDERES: ["Santander", "Norte de Santander"]
+  TOLIMA: ["Tolima"]
+  VALLE: ["Valle del Cauca"]
+  
+informes:
+  top_n: 10
+  top_n_cuatrimestre: 5
+  por_anio: "informe_anual.csv"
+  por_cuatrimestre: "informe_cuatrimestral.csv"
+  top_ciudades: "top_ciudades_anio.csv"
+  top_productos: "top_productos_anio.csv"
+  top_vendedores: "top_vendedores_anio.csv"
+  # Per cápita
+  top_ventas_per_capita: "top_ventas_per_capita_anio.csv"
+  top_vendedores_per_capita: "top_vendedores_per_capita_anio.csv"
+  # Top por cuatrimestre
+  top_productos_cuatrimestre: "top_productos_cuatrimestre.csv"
+  top_referencias_cuatrimestre: "top_referencias_cuatrimestre.csv"
+  top_familias_cuatrimestre: "top_familias_cuatrimestre.csv"
+  top_categorias_cuatrimestre: "top_categorias_cuatrimestre.csv"
+  top_n_marca: 1
+  top_marca_region_cuatrimestre: "top_marca_region_cuatrimestre.csv"
+  top_marca_region_anio: "top_marca_region_anio.csv"

@@ -1,0 +1,29 @@
+# .github/workflows/etl.yml
+name: Tests ETL
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: informebolton
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11.9"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Correr test de extracción
+        run: python test/test_extract.py

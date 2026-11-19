@@ -1,0 +1,15 @@
+pandas
+numpy
+requests
+PyYAML
+openpyxl
+python-calamine
+SQLAlchemy
+PyMySQL
+fastapi
+uvicorn
+pytest
+python-dotenv
+matplotlib
+scipy
+ipykernel
